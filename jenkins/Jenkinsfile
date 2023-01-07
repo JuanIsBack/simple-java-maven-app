@@ -23,7 +23,7 @@ pipeline {
         }
            stage('Final') {
             steps {
-                echo "it works"
+                echo "it smorks"
             }
         }
     }
